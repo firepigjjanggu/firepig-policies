@@ -17,3 +17,7 @@ GitHub Pages: https://firepigjjanggu.github.io/firepig-policies/
 ### Vocab Master (중·고등 영어)
 - Privacy: https://firepigjjanggu.github.io/firepig-policies/sec/privacy
 - Terms: https://firepigjjanggu.github.io/firepig-policies/sec/terms
+
+### 거래량 브리핑 (Volume Briefing)
+- Privacy: https://firepigjjanggu.github.io/firepig-policies/volume_briefing/privacy
+- Terms: 없음 — 개인정보 수집 0건·계정 없음이라 별도 이용약관을 두지 않았습니다(투자 면책은 방침 §8에 포함)
